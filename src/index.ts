@@ -1,1 +1,3 @@
-console.log('Hello world!')
+import {DataProvider} from "./dataprovider/dataprovider"
+
+console.log(DataProvider());
